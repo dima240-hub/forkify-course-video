@@ -132,5 +132,6 @@ const init = function () {
   console.log('Welcome');
   newF();
   alert('HACKED');
+  console.log('Ion');
 };
 init();
